@@ -1,0 +1,15 @@
+C:\Users\jacyn\source\repos\Three2OneContact\bin\Debug\net6.0\Three2OneContact.exe
+C:\Users\jacyn\source\repos\Three2OneContact\bin\Debug\net6.0\Three2OneContact.deps.json
+C:\Users\jacyn\source\repos\Three2OneContact\bin\Debug\net6.0\Three2OneContact.runtimeconfig.json
+C:\Users\jacyn\source\repos\Three2OneContact\bin\Debug\net6.0\Three2OneContact.dll
+C:\Users\jacyn\source\repos\Three2OneContact\bin\Debug\net6.0\Three2OneContact.pdb
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.csproj.AssemblyReference.cache
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.AssemblyInfoInputs.cache
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.AssemblyInfo.cs
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.csproj.CoreCompileInputs.cache
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.dll
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\refint\Three2OneContact.dll
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.pdb
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\Three2OneContact.genruntimeconfig.cache
+C:\Users\jacyn\source\repos\Three2OneContact\obj\Debug\net6.0\ref\Three2OneContact.dll
